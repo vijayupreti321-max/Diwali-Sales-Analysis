@@ -74,9 +74,9 @@ This is a beginner-friendly data analytics project focused on analyzing **Diwali
 
 ## 📬 Contact
 
-**Name:** [Your Name]  
-**LinkedIn:** [Your LinkedIn URL]  
-**Email:** [your.email@example.com]
+**Name:** Vijay Upreti  
+**LinkedIn:** https://www.linkedin.com/in/vijay-upreti-482982330/
+**Email:** vijay.upreti321@gmail.com
 
 ---
 
