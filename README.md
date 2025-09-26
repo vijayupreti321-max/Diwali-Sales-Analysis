@@ -87,3 +87,7 @@ Contributions are welcome! If you’d like to improve this project, feel free to
 
 If you like this project, don’t forget to star ⭐ the repository and share it with others!
 
+Name: Vijay Upreti
+Email: vijayupreti321@gmail.com
+contact:9990964185
+Linkden:https://www.linkedin.com/in/vijay-upreti-482982330/
