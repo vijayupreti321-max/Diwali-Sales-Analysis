@@ -1,86 +1,89 @@
-# 🛍️ Diwali Sales Data Analysis Project
+🪔 Diwali Sales Data Analysis
 
-This is a beginner-friendly data analytics project focused on analyzing **Diwali Sales data** to uncover customer behavior, sales trends, and actionable business insights using **Python and its data analysis libraries**.
+📌 Project Overview
 
----
+This project is a beginner-friendly data analytics project focused on analyzing Diwali Sales Data to uncover:
 
-## 📂 Dataset Information
+Customer behavior
 
-- **Rows:** 11,251  
-- **Columns:** 13 (after cleaning)  
-- **Source:** Internal retail data from a Diwali sales campaign  
-- **Format:** CSV  
-- **Attributes:** User ID, Gender, Age Group, Marital Status, State, Occupation, Product Category, Orders, Amount, etc.
+Sales trends
 
----
+Actionable business insights
 
-## 🎯 Objectives
+The analysis is done using Python and its powerful data analysis libraries.
 
-- Understand purchasing behavior during Diwali season  
-- Segment customers based on gender, age, occupation, and location  
-- Identify top-selling product categories  
-- Visualize patterns and trends to assist business decision-making
+📊 Dataset Information
 
----
+Rows: 11,251
 
-## 🔍 Key Insights
+Columns: Customer & transaction-related details (Gender, Age Group, State, Occupation, Product Category, Orders, Amount, etc.)
 
-- 👩 Married **females aged 26–35** had the highest purchase activity  
-- 📍 Most sales came from **Uttar Pradesh, Maharashtra, and Karnataka**  
-- 💼 Top customer professions: **IT, Healthcare, Aviation**  
-- 🎯 Leading product categories: **Food, Clothing, Electronics**
+Source: Publicly available dataset
 
----
+🎯 Objectives
 
-## 🛠 Tools & Technologies Used
+Identify top-performing states, age groups, and occupations in terms of sales.
 
-- **Python**  
-- **Pandas**  
-- **NumPy**  
-- **Matplotlib**  
-- **Seaborn**  
-- **Google Colab**
+Understand purchasing behavior based on gender and age groups.
 
----
+Analyze product categories contributing most to sales.
 
-## 📊 Exploratory Data Analysis (EDA) Performed
+Derive insights that businesses can use for targeted marketing and better decision-making.
 
-- Checked for null values and dropped irrelevant columns  
-- Cleaned and formatted the dataset  
-- Used groupby and aggregation for summarizing metrics  
-- Created the following visualizations:
-  - Gender vs Total Sales
-  - Age Group vs Sales
-  - State-wise Sales
-  - Occupation vs Sales
-  - Product Category Analysis
-  - Top 10 Sold Products
+🔑 Key Insights
 
----
+✔ Female customers contribute higher sales compared to males.
+✔ The 26–35 age group shows the highest purchasing activity.
+✔ Uttar Pradesh, Maharashtra, and Karnataka are top states with maximum sales.
+✔ Customers from IT, Healthcare, and Aviation sectors are more active in shopping.
 
-## 📎 Project Notebook
+🛠 Technologies Used
 
-🔗 [View the full project on Google Colab](https://colab.research.google.com/drive/1XRRl1DZk1GWvYJjZvURHMsI9MBdTQMBi?usp=sharing)
+Python 🐍
 
----
+Pandas
 
-## 💡 Learnings
+NumPy
 
-- Improved my skills in **data cleaning, preprocessing, and visualization**
-- Learned to extract actionable insights from real-world business data
-- Gained confidence in using **Python** for end-to-end data analysis projects
+Matplotlib
 
----
+Seaborn
 
-## 📬 Contact
+Jupyter Notebook
 
-**Name:** Vijay Upreti  
-**LinkedIn:** https://www.linkedin.com/in/vijay-upreti-482982330/
-**Email:** vijayupreti321@gmail.com
+🚀 How to Run the Project
 
----
+Clone the repository:
 
-> ✅ If you found this useful or have suggestions, feel free to connect or leave feedback.  
-> ⭐ Don't forget to star this repo if you liked the project!
-Added complete project description and insights in README file
+git clone https://github.com/vijayupreti321-max/Diwali-Sales-Analysis.git
+
+
+Navigate to the project folder:
+
+cd Diwali-Sales-Analysis
+
+
+Install required libraries:
+
+pip install -r requirements.txt
+
+
+Open Jupyter Notebook or Colab and run the analysis:
+
+jupyter notebook Diwali-Sales-Analysis.ipynb
+
+📷 Sample Visualizations
+
+
+
+
+🤝 Contributing
+
+Contributions are welcome! If you’d like to improve this project, feel free to fork the repo and submit a pull request.
+
+
+
+⭐ Support
+
+If you like this project, don’t forget to star ⭐ the repository and share it with others!
 
